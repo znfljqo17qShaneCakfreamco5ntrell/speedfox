@@ -8,3 +8,5 @@ Run the main script with: `python main.py --config config.yaml`
 - Task automation
 - Customizable workflows
 - Cross-platform support
+## Contributing
+Contributions are welcome! See CONTRIBUTING.md for details.
