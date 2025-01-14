@@ -10,3 +10,5 @@ Run the main script with: `python main.py --config config.yaml`
 - Cross-platform support
 ## Contributing
 Contributions are welcome! See CONTRIBUTING.md for details.
+## License
+This project is licensed under the MIT License - see LICENSE for details.
