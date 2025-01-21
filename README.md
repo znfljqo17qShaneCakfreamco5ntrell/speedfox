@@ -17,3 +17,6 @@ This project is licensed under the MIT License - see LICENSE for details.
 - Git
 ## Example
 
+## FAQ
+Q: How do I report bugs?
+A: Open an issue on the GitHub repository.
