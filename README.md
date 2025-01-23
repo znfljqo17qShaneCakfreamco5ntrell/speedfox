@@ -20,3 +20,5 @@ This project is licensed under the MIT License - see LICENSE for details.
 ## FAQ
 Q: How do I report bugs?
 A: Open an issue on the GitHub repository.
+## Contact
+For support, email: support@myopensourceproject.org
