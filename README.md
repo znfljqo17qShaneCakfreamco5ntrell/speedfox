@@ -22,3 +22,5 @@ Q: How do I report bugs?
 A: Open an issue on the GitHub repository.
 ## Contact
 For support, email: support@myopensourceproject.org
+## Acknowledgments
+Thanks to all contributors and open-source libraries used in this project.
