@@ -24,3 +24,4 @@ A: Open an issue on the GitHub repository.
 For support, email: support@myopensourceproject.org
 ## Acknowledgments
 Thanks to all contributors and open-source libraries used in this project.
+[![Build Status](https://github.com/user/myopensourceproject/workflows/CI/badge.svg)](https://github.com/user/myopensourceproject/actions)
